@@ -2,18 +2,124 @@
 
 <quiz>
 
-    <q>
+    <q1>
         Who was the first man to land on the moon?
         a. Neil Armstrong
         b. Lance Armstrong
         c. Buzz Aldrin
         d. John Glenn
-    </q>
+    </q1>
 
-    <a>
-        Neil Armstrong
-    </a>
+    <a1>
+        a. Neil Armstrong
+    </a1>
 
+    <q2>
+        What kind of TV show is a fictionalized account of a true story?
+         a. Soap Opera
+         b. Infomercial
+         c. Docudrama
+         d. Series
+    </q2>
 
+    <a2>
+        c. Docudrama
+    </a2>
+
+    <q3>
+        How many pairs of chromosomes are found in the average human?
+         a. 46
+         b. 23
+         c. 21
+         d. 32
+    </q3>
+
+    <a3>
+        b. 23
+    </a3>
+
+    <q4>
+        What movie is this line from: “Life is like a box a chocolate, you never know what your going to get.”
+         a. The Notebook
+         b. Forrest Gump
+         c. Cast Away
+         d. Breakfast at Tiffany’s
+    </q4>
+
+    <a4>
+        b. Forrest Gump
+    </a4>
+
+    <q5>
+        What year was the Declaration of Independence signed?
+        a. 1772
+        b. 1774
+        c. 1776
+        d. 1778
+    </q5>
+
+    <a5>
+        c. 1776
+    </a5>
+
+    <q6>
+       Which one of these U.S. President was the first and only one to serve a third term?
+       a. Franklin D. Roosevelt
+       b. Richard Nixon
+       c. Dwight D. Eisenhower
+       d. Barack Obama
+    </q6>
+
+    <a6>
+        a. Franklin D. Roosevelt
+    </a6>
+
+    <q7>
+       Which planet is furthest from the moon?
+       a. Neptune
+       b. Jupiter
+       c. Mars
+       d. Earth
+    </q7>
+
+    <a7>
+        a. Neptune
+    </a7>
+
+    <q8>
+       What number president was John F. Kennedy?
+       a. 27
+       b. 30
+       c. 35
+       d. 38
+    </q8>
+
+    <a8>
+        c. 35
+    </a8>
+
+    <q9>
+       Which team won the FIFA 2010 World Cup?
+       a. United States
+       b. Argentina
+       c. Germany
+       d. Spain
+    </q9>
+
+    <a9>
+        d. Spain
+    </a9>
+
+    <q10>
+       Which of the following men does not have a chemical element named for him?
+       a. Albert Einstein
+       b. Isaac Newton
+       c. Niels Bohr
+       d. Enrico Fermi
+    </q10>
+
+    <a10>
+        b. Isaac Newton
+    </a10>
 
 </quiz>
