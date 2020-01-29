@@ -1,17 +1,32 @@
 <?xml version="1.0"?>
 
 <quiz>
-
-    <q>
+	
+    <q1>
         Who was the first man to land on the moon?
         a. Neil Armstrong
         b. Lance Armstrong
         c. Buzz Aldrin
         d. John Glenn
-    </q>
+        
+    </q1>
 
-    <a>
+    <a1>
         Correct Answer: Neil Armstrong
-    </a>
+    </a1>
+    
+    <q2>
+    	What kind of TV show is a fictionalized account of a true story?
+		a. Soap Opera 
+		b. Infomercial 
+		c. Docudrama
+		d. Series     
+	</q2>
+	
+	<a2>
+		Correct Answer: Docudrama
+	</a2>
+    	
+    
 
 </quiz>
