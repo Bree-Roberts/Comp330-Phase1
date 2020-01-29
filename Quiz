@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+
+<quiz>
+
+    <q>
+        Who was the first man to land on the moon?
+        a. Neil Armstrong
+        b. Lance Armstrong
+        c. Buzz Aldrin
+        d. John Glenn
+    </q>
+
+    <a>
+        Neil Armstrong
+    </a>
+
+</quiz>
