@@ -1,42 +1,17 @@
-<?xml version="1.0"? encoding="UTF-8"?>
+<?xml version="1.0"?>
 
 <quiz>
-	
-    <q1>
+
+    <q>
         Who was the first man to land on the moon?
         a. Neil Armstrong
         b. Lance Armstrong
         c. Buzz Aldrin
         d. John Glenn
-        
-    </q1>
+    </q>
 
-    <a1>
-        Correct Answer: Neil Armstrong
-    </a1>
-    
-    <q2>
-    	What kind of TV show is a fictionalized account of a true story?
-		a. Soap Opera 
-		b. Infomercial 
-		c. Docudrama
-		d. Series     
-	</q2>
-	
-	<a2>
-		Correct Answer: Docudrama
-	</a2>
-
-	<q3>How many pairs of chromosomes are found in the average human?
-	    a. 46
-        b. 23
-        c. 21
-        d. 32
-    </q3>
-
-    <a3>
-        Correct Answer: 23
-    </a3>
-
+    <a>
+        Neil Armstrong
+    </a>
 
 </quiz>
