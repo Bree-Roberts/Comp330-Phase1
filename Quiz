@@ -3,15 +3,11 @@
 <quiz>
 
     <q1>
-        Who was the first man to land on the moon?
-        a. Neil Armstrong
-        b. Lance Armstrong
-        c. Buzz Aldrin
-        d. John Glenn
+        Neil Armstrong was the first man to land on the moon. T/F
     </q1>
 
     <a1>
-        a. Neil Armstrong
+        T
     </a1>
 
     <q2>
@@ -27,15 +23,11 @@
     </a2>
 
     <q3>
-        How many pairs of chromosomes are found in the average human?
-         a. 46
-         b. 23
-         c. 21
-         d. 32
+        There are 23 chromosomes in the average human. T/F
     </q3>
 
     <a3>
-        b. 23
+        T
     </a3>
 
     <q4>
@@ -75,15 +67,11 @@
     </a6>
 
     <q7>
-       Which planet is furthest from the moon?
-       a. Neptune
-       b. Jupiter
-       c. Mars
-       d. Earth
+       Neptune is not the furthest planet from the moon. T/F
     </q7>
 
     <a7>
-        a. Neptune
+        F
     </a7>
 
     <q8>
@@ -111,15 +99,11 @@
     </a9>
 
     <q10>
-       Which of the following men does not have a chemical element named for him?
-       a. Albert Einstein
-       b. Isaac Newton
-       c. Niels Bohr
-       d. Enrico Fermi
+       Isaac Newton did not have a chemical element named after him. T/F
     </q10>
 
     <a10>
-        b. Isaac Newton
+       F
     </a10>
 
 </quiz>
