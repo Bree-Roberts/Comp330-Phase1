@@ -1,8 +1,21 @@
 import java.util.*;
-
 import java.util.ArrayList;
 
-public class Q&A Quiz{
+public class Quiz{
+
+  private String showQuestion;
+  private List<String> answerChoices;
+  private String rightAnswer;
+
+  public Quiz(String showQuestion, List<String> answerChoices, String rightAnswer)
+  {
+    this.showQuestion = showQuestion;
+    this.answerChoices = answerChouces;
+    this.rightAnswer = rightAnswer;
+  }
+
+
+
 
   private String iQuestion[] = {
           Who was the first man to land on the moon?
