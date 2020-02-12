@@ -10,10 +10,6 @@ When thinking about how to structure our code, we wanted to build a simple code 
 
 For this project, we worked on Android Studio v3.4.1. Since the IDE was a reqruiment for COMP 313, both of us felt comfortable using the program to write the code. No installation was needed since the program we had already downloawed it. However, to download Android Studio to your computer, all you have to do is download it from https://developer.android.com/studio. There is a User Guide section that helps answer questions about how to install and use Android Studio on yourcomputer. 
 
-```
-Give examples
-```
-
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running
