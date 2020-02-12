@@ -2,9 +2,9 @@
 
 One Paragraph of project description goes here
 
-## Getting Started
+## Getting Started and Overall Work
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+When thinking about how to structure our code, we wanted to build a simple code that would be able to prompt a question on the screen, allow the user to select an answer, and then show the right answer. Even though it sounded easy at first, there was some trouble we ran into. The code was supposed to hold the questions in a string and show the user a question to choose from. The first two questions were multiple-choice, followed by a “True or False” and then fill in the blank. We had made ten questions before designing the code to make up the quiz, but we only used four and styled them differently. Like the questions, the answer choices were coded in a string. After getting the question, the program was supposed to get the answer choices. We wanted to have the questions be read from a JSON or XML format, but neither of us had experience working with them. In the end, the program should show the correct answer to the user after getting it from the getCorrect Answer string. However, when designing our code, we kept getting errors that we tried to fix. Instead of asking for help, we thought we could learn how to fix the problem on our own, but we weren't able to get it to work. 
 
 ### Prerequisites
 
