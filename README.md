@@ -20,20 +20,13 @@ Inside Android Studio 3.4.1, run the Quiz.java file in the terminal. Enter the c
 
 ### Break down into end to end tests
 
-Explain what these tests test and why
+These tests test the functionality of the program.
 
 ```
-Give an example
+ Neil Armstrong was the first man to land on the moon. T/F
+ 
+ True
 ```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
 ## Contributing
 
 Henry: Code designer and test runner. Helped format the quiz and researcher. Commit and push changes onto Github.
