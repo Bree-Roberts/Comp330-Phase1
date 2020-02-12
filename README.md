@@ -12,21 +12,7 @@ For this project, we worked on Android Studio v3.4.1. Since the IDE was a reqrui
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+Please download AndroidStudio for best performance.
 
 ## Running the tests
 
