@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+For this project, we worked on Android Studio v3.4.1. Since the IDE was a reqruiment for COMP 313, both of us felt comfortable using the program to write the code. No installation was needed since the program we had already downloawed it. However, to download Android Studio to your computer, all you have to do is download it from https://developer.android.com/studio. There is a User Guide section that helps answer questions about how to install and use Android Studio on yourcomputer. 
 
 ```
 Give examples
@@ -34,7 +34,7 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
+Inside Android Studio 3.4.1, run the Quiz.java file in the terminal. Enter the command line javac Quiz.java, to run the code. The questions should appear one by one allowing the user to choose an answer. However, we were not able to get the code running. 
 
 ### Break down into end to end tests
 
@@ -52,10 +52,6 @@ Explain what these tests test and why
 Give an example
 ```
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
 ## Built With
 *here is what the code was built with below are just some examples
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
@@ -64,20 +60,13 @@ Add additional notes about how to deploy this on a live system
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Henry: Code designer and test runner. Helped format the quiz and researcher. Commit and push changes onto Github.
+Bree: Code designer and 
 
 ## Authors
+Henry Espinoza 
+Bree Roberts 
 
-* **Group Members goes here** - *Initial work* - github url here?
 
-## License
-
-License goes here
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
 
 
