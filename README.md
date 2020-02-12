@@ -1,6 +1,6 @@
 # Comp330-Phase1
 
-One Paragraph of project description goes here
+The purpose of our project is to give professors and students a resource they can use to study various topics. We would like to have professors use our program to test their students knowledge on various topics and for students or the general public to use for personal study.
 
 ## Getting Started and Overall Work
 
