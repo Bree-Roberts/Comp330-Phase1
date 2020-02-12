@@ -57,7 +57,7 @@ Give an example
 ## Contributing
 
 Henry: Code designer and test runner. Helped format the quiz and researcher. Commit and push changes onto Github.
-Bree: Code designer and 
+Bree: Code designer and test runner. Helped formar quiz and helped set up Github repository.Commit and push changes onto Github.
 
 ## Authors
 Henry Espinoza 
