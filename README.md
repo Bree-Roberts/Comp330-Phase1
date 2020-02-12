@@ -62,11 +62,8 @@ Add additional notes about how to deploy this on a live system
 
 ## Authors
 
-* **Henry Espinoza and Brianna Roberts** - *Initial work* - github url here?
+* **Henry Espinoza and Brianna Roberts** - https://github.com/Bree-Roberts/Comp330-Phase1.git
 
-## License
-
-License goes here
 
 ## Acknowledgments
 
